@@ -3,7 +3,7 @@
 
 <h3 align="center">🚀 Cloud & DevOps Engineer | AIOps </h3>
 
-<p align="center">
+<p align="left">
   I’m a Cloud & DevOps Engineer with over 2 years of hands-on experience building and optimizing scalable, reliable infrastructure. I’ve successfully improved system performance, reduced latency, and delivered strong CI/CD pipelines that streamline deployment workflows. My skill set spans across cloud platforms, containerization, infrastructure as code (IaC), and end-to-end monitoring and alerting solutions, all focused on driving performance, security, and automation.
 </p>
 
