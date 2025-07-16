@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/aderinto-adedayo-525a301a5" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https//aderintoadedayo@gmail.com" target="_blank">
+  <a href="mailto:aderintoadedayo@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://twitter.com/i_amDayo" target="_blank">
