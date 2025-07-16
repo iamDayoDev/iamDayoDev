@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hello! 👋, I'm Adedayo Aderinto</h1>
 
-<h3 align="center">🚀 Cloud & DevOps Engineer | AIOps </h3>
+<h3 align="left">🚀 Cloud & DevOps Engineer | AIOps </h3>
 
 <p align="left">
   I’m a Cloud & DevOps Engineer with over 2 years of hands-on experience building and optimizing scalable, reliable infrastructure. I’ve successfully improved system performance, reduced latency, and delivered strong CI/CD pipelines that streamline deployment workflows. My skill set spans across cloud platforms, containerization, infrastructure as code (IaC), and end-to-end monitoring and alerting solutions, all focused on driving performance, security, and automation.
@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/aderinto-adedayo-525a301a5" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:aderintoadedayo@gmail.com" target="_blank">
+  <a href="https//aderintoadedayo@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://twitter.com/i_amDayo" target="_blank">
