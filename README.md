@@ -15,14 +15,14 @@
   <a href="https://www.linkedin.com/in/aderinto-adedayo-525a301a5" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@aderintoadedayo@gmailm.com">
+  <a href="mailto:aderintoadedayo@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/i_amDayo)" target="_blank">
+  <a href="https://twitter.com/i_amDayo" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://medium.com/@aderintoadedayo" target="_blank">
-    <img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-000000?style=flat&logo=devdotto&logoColor=white"/>
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"/>
   </a>
 </p>
 
