@@ -1,11 +1,12 @@
 <!-- Profile Header -->
-<h1 align="center">Hey there 👋, I'm Adedayo Aderinto</h1>
+<h1 align="center">Hello! 👋, I'm Adedayo Aderinto</h1>
 
 ### 📈 Visitor Badge
 
 <p align="left">
-  <img src="https://github.com/iamDayoDev&label=Profile%20views&color=0e75b6&style=flat" alt="iamDayoDev" />
+  <img src="https://komarev.com/ghpvc/?username=iamDayoDev&label=Profile%20views&color=0e75b6&style=flat" alt="iamDayoDev" />
 </p>
+
 
 <h3 align="center">🚀 Cloud & DevOps Engineer | AIOps </h3>
 
@@ -70,7 +71,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark&count_private=true&hide=issues"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamDayoDev&show_icons=true&theme=github_dark&count_private=true&hide=issues"/>
 </p>
 
 <p align="center">
