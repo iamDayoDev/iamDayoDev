@@ -1,13 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hello! 👋, I'm Adedayo Aderinto</h1>
 
-### 📈 Visitor Badge
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=iamDayoDev&label=Profile%20views&color=0e75b6&style=flat" alt="iamDayoDev" />
-</p>
-
-
 <h3 align="center">🚀 Cloud & DevOps Engineer | AIOps </h3>
 
 <p align="center">
