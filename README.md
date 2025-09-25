@@ -61,15 +61,31 @@
 
 ---
 
-### 📊 GitHub Stats
+![Banner](./banner3.png)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamDayoDev&show_icons=true&theme=github_dark&count_private=true&hide=issues"/>
-</p>
+<h2 align="center">Hi 👋! I'm Muna! </h2>
+<h3 align="center">Software Engineer | DevOps </h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamDayoDev&theme=github-dark"/>
-</p>
+
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+
+### For more skills icons
+https://github.com/tandpfun/skill-icons
+-->
+
+
+### 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,bash,linux,docker,kubernetes,terraform,vscode,ubuntu,git,github,gitlab,powerplatform)](https://skillicons.dev)
+
+---
+###
+![Adedayo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamDayoDev&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamDayoDev&layout=compact&theme=tokyonight)
+
+
+###
 
 
 
