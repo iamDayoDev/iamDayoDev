@@ -1,7 +1,7 @@
 <!-- Profile Header -->
-<h1 align="center">Hello! 👋, I'm Adedayo Aderinto</h1>
+<h1>Hello! 👋, I'm Adedayo Aderinto</h1>
 
-<h3 align="center">🚀 Cloud & DevOps Engineer | AIOps </h3>
+<h3>🚀 Cloud & DevOps Engineer | AIOps </h3>
 
 <p align="center">
   I’m a Cloud & DevOps Engineer with over 2 years of hands-on experience building and optimizing scalable, reliable infrastructure. 
