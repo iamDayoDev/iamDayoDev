@@ -30,21 +30,17 @@
 
 ---
 
-<div>
-
-- 👯 I’m looking to collaborate on exciting **Cloud & DevOps projects**  
-- 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, CI/CD**  
-
-</div>
-
----
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
 
 ### 🛠️ Tech Stack
-  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,bash,linux,docker,kubernetes,terraform,vscode,ubuntu,git,github,gitlab,powerplatform)](https://skillicons.dev)
 
---- 
-### ![Adedayo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamDayoDev&show_icons=true&theme=tokyonight) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamDayoDev&layout=compact&theme=tokyonight) 
+---
+###
+![Muna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamDayoDev&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamDayoDev&layout=compact&theme=tokyonight)
+
 
 ###
