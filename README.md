@@ -1,17 +1,19 @@
 <!-- Profile Header -->
 <h1 align="center">Hello! 👋, I'm Adedayo Aderinto</h1>
 
-<h3 align="left">🚀 Cloud & DevOps Engineer | AIOps </h3>
+<h3 align="center">🚀 Cloud & DevOps Engineer | AIOps </h3>
 
-<p align="left">
-  I’m a Cloud & DevOps Engineer with over 2 years of hands-on experience building and optimizing scalable, reliable infrastructure. I’ve successfully improved system performance, reduced latency, and delivered strong CI/CD pipelines that streamline deployment workflows. My skill set spans across cloud platforms, containerization, infrastructure as code (IaC), and end-to-end monitoring and alerting solutions, all focused on driving performance, security, and automation.
+<p align="center">
+  I’m a Cloud & DevOps Engineer with over 2 years of hands-on experience building and optimizing scalable, reliable infrastructure. 
+  I’ve successfully improved system performance, reduced latency, and delivered strong CI/CD pipelines that streamline deployment workflows. 
+  My skill set spans across cloud platforms, containerization, infrastructure as code (IaC), and end-to-end monitoring and alerting solutions, 
+  all focused on driving performance, security, and automation.
 </p>
 
 ---
 
 ### 🌐 Connect With Me
-
-<p align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/aderinto-adedayo-525a301a5" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
@@ -24,23 +26,31 @@
   <a href="https://medium.com/@aderintoadedayo" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"/>
   </a>
-</p>
-
-
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-
-
-### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,bash,linux,docker,kubernetes,terraform,vscode,ubuntu,git,github,gitlab,powerplatform)](https://skillicons.dev)
+</div>
 
 ---
-###
-![Adedayo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamDayoDev&show_icons=true&theme=tokyonight)
+
+<div align="center">
+
+- 👯 I’m looking to collaborate on exciting **Cloud & DevOps projects**  
+- 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, CI/CD**  
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,bash,linux,docker,kubernetes,terraform,vscode,ubuntu,git,github,gitlab,powerplatform)](https://skillicons.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+![Adedayo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamDayoDev&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamDayoDev&layout=compact&theme=tokyonight)
 
-
-###
-
-
-
+</div>
