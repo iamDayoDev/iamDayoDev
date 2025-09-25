@@ -26,54 +26,10 @@
   </a>
 </p>
 
----
-
-### 🛠️ Tech Stack & Tools
-
-#### ☁️ **Cloud Platforms**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-
-#### 🔧 **DevOps & Automation**
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-
-#### 📦 **Containerization & Orchestration**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![ECS](https://img.shields.io/badge/AWS_ECS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-
-#### 📈 **Monitoring & Logging**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-
-#### 🔐 **Security & Compliance**
-![IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![HashiCorp Vault](https://img.shields.io/badge/Vault-000000?style=flat&logo=vault&logoColor=white)
-
-#### 🧠 **Languages & Scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
----
-
-![Banner](./banner3.png)
-
-<h2 align="center">Hi 👋! I'm Muna! </h2>
-<h3 align="center">Software Engineer | DevOps </h3>
-
 
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-
-### For more skills icons
-https://github.com/tandpfun/skill-icons
--->
 
 
 ### 🛠️ Tech Stack
