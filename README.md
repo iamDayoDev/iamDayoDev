@@ -13,7 +13,7 @@
 ---
 
 ### 🌐 Connect With Me
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/aderinto-adedayo-525a301a5" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
@@ -30,7 +30,7 @@
 
 ---
 
-<div align="center">
+<div>
 
 - 👯 I’m looking to collaborate on exciting **Cloud & DevOps projects**  
 - 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, CI/CD**  
@@ -48,7 +48,7 @@
 
 ---
 
-<div align="center">
+<div>
 
 ![Adedayo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamDayoDev&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamDayoDev&layout=compact&theme=tokyonight)
