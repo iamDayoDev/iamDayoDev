@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1>Hello! 👋, I'm Adedayo Aderinto</h1>
+<h1 align=center>Hello! 👋, I'm Adedayo Aderinto</h1>
 
 <h3>🚀 Cloud & DevOps Engineer | AIOps </h3>
 
