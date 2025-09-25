@@ -40,17 +40,11 @@
 ---
 
 ### 🛠️ Tech Stack
-<div align="center">
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,bash,linux,docker,kubernetes,terraform,vscode,ubuntu,git,github,gitlab,powerplatform)](https://skillicons.dev)
 
-</div>
+--- 
+### ![Adedayo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamDayoDev&show_icons=true&theme=tokyonight) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamDayoDev&layout=compact&theme=tokyonight) 
 
----
-
-<div>
-
-![Adedayo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamDayoDev&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamDayoDev&layout=compact&theme=tokyonight)
-
-</div>
+###
